@@ -1,2 +1,2 @@
-# wrong-intro
-I'm a programmer with a good sense of humor 
+# Aliens-From-Earth
+I'm a game developer with a good sense of humour
